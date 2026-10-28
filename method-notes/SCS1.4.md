@@ -1,1 +1,1 @@
-Got through it once I slowed down and read the terminal errors.
+go through my work and detect all error
